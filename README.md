@@ -1,0 +1,1 @@
+Here are the files used in this video. I recommend starting with the Python code and making sure you can set up a local server on your machine first. Then the Unity files. In the video, I added the ChatSender code first and got an error until I added the PythonBridge code. You may want to start with the Python Bridge code.
